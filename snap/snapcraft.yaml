@@ -1,4 +1,4 @@
-name: barrier-kvm # the Barrier Snappy for Linux / not tested on MAC yet
+name: barrier # the Barrier Snappy for Linux / not tested on MAC yet
 base: core18 
 version: '2.2.0' # 03/2019 
 summary: Eliminate the barrier between your machines.
